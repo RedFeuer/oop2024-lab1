@@ -1,0 +1,24 @@
+45c45
+< PROJECT_NAME           = "My Project"
+---
+> PROJECT_NAME           = "Menu"
+71c71
+< OUTPUT_DIRECTORY       =
+---
+> OUTPUT_DIRECTORY       = ./docs
+521c521
+< EXTRACT_ALL            = NO
+---
+> EXTRACT_ALL            = YES
+946c946
+< INPUT                  =
+---
+> INPUT                  = .
+1183c1183
+< SOURCE_BROWSER         = NO
+---
+> SOURCE_BROWSER         = YES
+1189c1189
+< INLINE_SOURCES         = NO
+---
+> INLINE_SOURCES         = YES
